@@ -5,4 +5,4 @@ I wrote this script to send a notification to my phone every day that the temper
 
 To run this code, you will have to setup OpenWeatherMap and Pushover accounts and input your user keys in the blocks of code that say "enter your key here."
 
-Created using nb.anaconda.cloud/jupyterhub
+Created using nb.anaconda.cloud/jupyterhub.
